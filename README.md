@@ -44,6 +44,7 @@ You can get more details on my <a href="https://www.linkedin.com/in/vinicio-arau
 
 3. <a href="https://github.com/VinicioAM/NodeJS_and_Node-Red" target="_blank" rel="noreferrer">**NodeJS_and_Node-Red**</a>
     * <a href="https://github.com/VinicioAM/NodeJS_and_Node-Red/tree/main/Parameter%20Check%20Automation" target="_blank" rel="noreferrer">**Parameter Check Automation:**</a> Automation of a manual process executed in industry by sending a report through WhatsApp/Telegram/E-mail, generating time gain and error reduction.
+    * <a href="https://github.com/VinicioAM/NodeJS_and_Node-Red/tree/main/WhatsApp_Bot" target="_blank" rel="noreferrer">**WhatsApp Bot:**</a> Whatsapp bot that sends automatic messages. It has been integrated with another tool to read data from robots and machines.
 
 
   
