@@ -37,6 +37,7 @@ You can get more details on my <a href="https://www.linkedin.com/in/vinicio-arau
 1. <a href="https://github.com/VinicioAM/Python" target="_blank" rel="noreferrer">**Python** </a>
     * <a href="https://github.com/VinicioAM/Python/tree/main/K-Means" target="_blank" rel="noreferrer"> **K-Means:** </a> Application of K-Means Clustering (Machine Learning Method) in Industrial Dataset to group different types of manufactured pieces.
     * <a href="https://github.com/VinicioAM/Python/tree/main/KNN" target="_blank" rel="noreferrer">**KNN:**</a> Application and evaluating of K-Nearest Neighbors (Machine Learning Method) in Cancer Dataset to predict whether a person's tumor will be benign or malignant.  
+    * <a href="https://github.com/VinicioAM/Python/tree/main/PCA" target="_blank" rel="noreferrer">**Agglomerative Clustering:**</a> Agglomerative Clustering Application in a Credit Card Churn Dataset. Principal component analysis (PCA) has used to check how clusters are created. As result we can create a costumer profile based on clusters to prevent churn.      
     * <a href="https://github.com/VinicioAM/Python/tree/main/Bad%20Pieces%20Move" target="_blank" rel="noreferrer">**Bad Pieces Move:**</a> Script made to analyze a machine report and identify/discern bad pieces, saving time and improving the analysis of root cause.
 
 2. <a href="https://github.com/VinicioAM/IIoT" target="_blank" rel="noreferrer">**IIoT**</a>
